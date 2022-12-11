@@ -6,4 +6,5 @@ regularized linear regression.ipynb
 
 ## results
 $R^2$ scores in scores.xlsx
+
 prediction plots in price_plot/
